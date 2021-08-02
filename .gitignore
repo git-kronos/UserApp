@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+env/
+__pycache__/
+migrations/
+*.ps1
+*ini
